@@ -1,0 +1,30 @@
+{
+"Student" : [
+{
+"userId" : "173453478",
+"jobTitleName" : "Quality Assurance Engineer",
+"firstName" : "Oleksandr",
+"lastName" : "Sivosh",
+"middleName":null,
+"preferredFullName" : "Alex Sivosh",
+"studentAlias" : "olsiv99",
+"phoneNumber":"+3809512345678",
+"emailAddress":"olsiv@gmail.com",
+"surfaceData" : {
+           "height" : 180,
+           "weight" : 80,
+           "eyeColor" : "green"
+},
+"interests" : [ "reading", "golf", 666 ],
+"lastLogin":{
+            "insideTheSystem" : "2023-03-03 15:59:00",
+            "outsideTheSystem" : {
+                              "siteStatus" : "blocked",
+                              "link" : "https://www.shmoogle.com/",
+                              "data" : "2023-02-03 10:54:44"
+},
+"valid" : true
+}
+}
+]
+}
